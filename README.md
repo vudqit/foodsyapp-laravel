@@ -1,3 +1,3 @@
 ## Foodsy Laravel Project
 
-Simple laravel project, make API for app like Foody
+Simple laravel project with Heroku, make API for app like Foody
